@@ -54,5 +54,15 @@ font-size: 30px;
 
 text-align: center;
 
+}
+
+.buttonlink button{
+font-family:"caveat";
+background-color: #009b8e;
+color: rgb(0, 255, 157);
+width: 200px;   
+height: 100px;
+border-radius: 15px;
+font-size: 30px;
 
 }
